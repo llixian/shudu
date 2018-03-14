@@ -13,5 +13,6 @@
 （5）重复3、4步骤直至所有值全部为0且满足数独条件；  
 （6）输出满足条件的数独；  
 （7）在得到的棋盘基础上对全局的任意数字进行交换；  
-（8）最终就可以可随机构造N个已解答的数独棋盘。   
-  
+（8）最终就可以可随机构造N个已解答的数独棋盘。  
+![image](https://github.com/llixian/sodu/blob/master/images/2.PNG)
+![image](https://github.com/llixian/sodu/blob/master/images/4.PNG)
